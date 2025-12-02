@@ -1,1 +1,1 @@
-# Bank-Profitability-by-Ratio-Analysis-Quant-Finance-
+# Bank Profitability Analysis by Ratio Analysis (Quant Finance)
